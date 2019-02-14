@@ -1,2 +1,3 @@
 Receiver: Sara 
+
 Transmitter: Magda
