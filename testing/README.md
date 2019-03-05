@@ -1,4 +1,4 @@
-##THIS is a test directory##
+# THIS is a test directory
 
 
 1. This is the first tging
